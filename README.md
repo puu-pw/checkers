@@ -30,10 +30,10 @@ pip install -r requirements.txt
     ```
 ### Usage
 
-- Follow the on-screen instructions to play the game.
-- For an understanding of the game's logic, refer to checkersflowchart.txt.
+- Run the program      
 - Use checkerboard.png as a reference for the board layout.
-
+- Start playing!
+  
 ### Contributing
 Feel free to submit issues and pull requests if you have suggestions for improvements or want to contribute to the project.
 
