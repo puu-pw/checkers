@@ -1,7 +1,7 @@
 # Checker Project
 
 ## Description
-The Checker Project is a simple implementation of the classic Checkers game. It includes a basic version of the game (`checker.py`), a version that supports playing against a bot (`checkers-with-bot.py`), and a visual representation of the game's flow in `checkersflowchart.txt`. The project is designed to be easy to set up and run on any machine with Python installed.
+The Checker Project is a simple implementation of the classic Checkers game. It includes a basic version of the game (`checker.py`), a version that supports playing against a bot (`checkers-with-bot.py`). The project is designed to be easy to set up and run on any machine with Python installed.
 
 ## Features
 - **Basic Checkers Game**: Play against another human on the same device using `checker.py`.
