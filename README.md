@@ -6,7 +6,6 @@ The Checker Project is a simple implementation of the classic Checkers game. It 
 ## Features
 - **Basic Checkers Game**: Play against another human on the same device using `checker.py`.
 - **Checkers with AI**: Play against a simple bot with `checkers-with-bot.py`.
-- **Game Flow Visualization**: View the game's logic flow using the flowchart provided in `checkersflowchart.txt`.
 - **Checkerboard Visualization**: A visual representation of the checkerboard is included in `checkerboard.png`.
 
 ## Setup
